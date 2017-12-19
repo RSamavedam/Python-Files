@@ -1,1 +1,1 @@
-print("Yay, Github
+print("Yay, Github")
